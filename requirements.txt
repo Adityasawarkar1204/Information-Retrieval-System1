@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+pip
+torch
+transformers
+huggingface-hub
+sentence-transformers
+langchain_community
+PyPDF2
+faiss-cpu
+streamlit
+-e .
+
